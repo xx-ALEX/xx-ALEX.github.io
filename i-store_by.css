@@ -875,12 +875,12 @@ div.iPhone_container {
 div.iPhone {
     grid-area: iPhone;
     height: 705px;
-    background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 80%/70% no-repeat #f6f6f6;
+    background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 85%/60% no-repeat #f6f6f6;
 }
 div.Mac {
     grid-area: Mac;
     height: 350px;
-    background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    background: url("img/Mac.png") 50% 85%/60% no-repeat #f6f6f6;
 }
 div.iPad {
     grid-area: iPad;
@@ -890,7 +890,7 @@ div.iPad {
 div.smart_home {
     grid-area: smart_home;
     height: 350px;
-    background: url("img/smart_home.png") 50% 170%/75% no-repeat #f6f6f6;
+    background: url("img/smart_home.png") 50% 180%/70% no-repeat #f6f6f6;
 }
 div.Mac_mini {
     grid-area: Mac_mini;
@@ -900,7 +900,7 @@ div.Mac_mini {
 div.accessories {
     grid-area: accessories;
     height: 350px;
-    background: url("img/airpods_max.png") 50% 90%/75% no-repeat #f6f6f6;
+    background: url("img/airpods_max.png") 50% 90%/70% no-repeat #f6f6f6;
 }
 div.iPhone_container>div>a {
     display: flex;
