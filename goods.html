@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>i-Store - Сеть фирменных магазинов</title>
+  <link rel="icon" type="image/png" href="https://cdn0.it4profit.com/favicon/g6/favicon-by.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://cdn0.it4profit.com/favicon/g6/favicon-by.png">
+  <link rel="stylesheet" href="i-store_by.css">
+  <link rel="stylesheet" href="media_index.css">
+</head>
+<body>
+<header>
+  <a class="installment_payment" href="#" title="Рассрочка">Беспроцентная рассрочка по карте ХАЛВА
+    <b>c 19 по 22 августа</b> в честь открытия нового магазина.&emsp;
+    <span>0%</span><span>0 BYN</span><span>6 мес</span></a>
+  <div class="main_info">
+    <div class="main_info_1">
+      <ul>
+        <li><a href="info.html#payment">Оплата и доставка</a></li>
+        <li><a href="info.html#shops">Адреса магазинов</a></li>
+        <li><a href="info.html#credit">Кредит</a></li>
+        <li><a href="info.html#legal_entities">Юр. лицам</a></li>
+      </ul>
+      <img class="clock" src="img/clock.svg" alt="clock">
+      <div class="working_time">
+        <p>9:00 - 21:00 (пн-пт);</p>
+        <p>10:00 - 19:00 (сб-вс)</p>
+      </div>
+      <img class="phone" src="img/phone.svg" alt="phone">
+      <a href="tel:+375291234567"><span>+375 (29) <b>Показать номер</b></span><span class="hidden">1-234-567</span></a>
+    </div>
+    <button type="button" class="personal">
+      <img class="user" src="img/user.svg" alt="user">
+      <span>Личный кабинет</span>
+    </button>
+    <div class="blackout"></div>
+    <div class="out"></div>
+    <form method="post" enctype="multipart/form-data" action="registration.jsp">
+      <p>Вход</p>
+      <p>Для доступа в Ваш личный кабинет введите номер мобильного или e-mail.</p>
+      <p>Введите номер мобильного телефона или e-mail*</p>
+      <input type="text" maxlength="50" name="email_and_phone_number" placeholder="+375291234567 или e-mail">
+      <input type="submit" value="Продолжить">
+      <p>Или нажмите на кнопку ниже для быстрого входа с Apple или Google
+        или Facebook если активировали одну из этих функций ранее.</p>
+      <div class="icons">
+        <a href="https://appleid.apple.com/auth/authorize?response_type=code&response_mode=form_post&client_id=PAcms.client&redirect_uri=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dapple&state=eyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6IjNlYjJjNjM5NDcifQ%3D%3D&scope=name+email"><div class="icon apple"></div></a>
+        <a href="https://accounts.google.com/o/oauth2/auth/identifier?response_type=code&access_type=online&client_id=390753250698-c9v7n2lq1g0thf2e609id4ftta2m06te.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dgoogle&state=eyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6IjJmNGJlNmMxOGIifQ%3D%3D&scope=email%20profile&approval_prompt=auto&flowName=GeneralOAuthFlow"><div class="icon google"></div></a>
+        <a href="https://www.facebook.com/login.php?skip_api_login=1&api_key=521933802296033&kid_directed_site=0&app_id=521933802296033&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv6.0%2Fdialog%2Foauth%3Fclient_id%3D521933802296033%26redirect_uri%3Dhttps%253A%252F%252Fi-store.by%252Fapi%252Fsocial-sign%253Fsocial%253Dfacebook%26scope%3Demail%26state%3DeyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6ImI5Y2EwZDRiZWQifQ%253D%253D%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D3c0d9b6d-3c7f-48d3-b8b1-1402ecc71cc0%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dfacebook%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DeyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6ImI5Y2EwZDRiZWQifQ%253D%253D%23_%3D_&display=page&locale=ru_RU&pl_dbl=0"><div class="icon facebook"></div></a>
+      </div>
+      <p>Нет аккаунта?&emsp;&emsp;&emsp;&emsp;<a href="#">Зарегестрироваться</a></p>
+    </form>
+    <div class="blackout_2"></div>
+  </div>
+  <div class="menu">
+    <a href="index.html" class="store_name">i-Store</a>
+    <nav class="goods">
+      <ul>
+        <li><a href="goods.html">Mac</a>
+          <ul>
+            <li><a href="#">MacBook Pro <span>new</span></a></li>
+            <li><a href="#">MacBook Air <span>new</span></a></li>
+            <li><a href="#">MacMini <span>new</span></a></li>
+            <li><a href="#">iMac <span>new</span></a></li>
+            <li><a href="#">MacBook Custom</a></li>
+            <li><a href="#">Аксессуары для Mac</a></li>
+            <li><a href="#">Услуги для Mac</a></li>
+            <li><a href="#">Jamf</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">iPad</a>
+          <ul>
+            <li><a href="#">iPad Pro 12,9 M1 <span>new</span></a></li>
+            <li><a href="#">iPad Pro 11 M1 <span>new</span></a></li>
+            <li><a href="#">iPad Air 4</a></li>
+            <li><a href="#">Pad 10,2</a></li>
+            <li><a href="#">iPad Pro 11</a></li>
+            <li><a href="#">iPad Pro 12,9</a></li>
+            <li><a href="#">iPad mini 5</a></li>
+            <li><a href="#">Аксессуары для iPad</a></li>
+            <li><a href="#">Услуги для iPad</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">iPhone</a>
+          <ul>
+            <li><a href="goods_iPhones.html">iPhone 12 <span>new</span></a></li>
+            <li><a href="#">iPhone 12 Pro <span>new</span></a></li>
+            <li><a href="#">iPhone 12 Pro Max <span>new</span></a></li>
+            <li><a href="#">iPhone 12 mini <span>new</span></a></li>
+            <li><a href="#">iPhone SE 2</a></li>
+            <li><a href="#">iPhone 11</a></li>
+            <li><a href="#">iPhone XR</a></li>
+            <li><a href="#">Аксессуары для iPhone</a></li>
+            <li><a href="#">Услуги для iPhone</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">TV</a>
+          <ul>
+            <li><a href="#">Apple TV 4K <span>new</span></a></li>
+            <li><a href="#">Аксессуары для Apple TV</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">AirPods</a>
+          <ul>
+            <li><a href="#">AirPods Pro</a></li>
+            <li><a href="#">AirPods 2</a></li>
+            <li><a href="#">AirPods Max</a></li>
+            <li><a href="#">Чехлы для AirPods</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">Умный дом</a></li>
+        <li><a href="goods.html">Аксессуары</a>
+          <ul>
+            <li><a href="#">AirTag <span>new</span></a></li>
+            <li><a href="#">Аксессуары для iPhone</a></li>
+            <li><a href="#">Аксессуары для iPad</a></li>
+            <li><a href="#">Аксессуары для Mac</a></li>
+            <li><a href="#">Аксессуары для Apple Watch</a></li>
+            <li><a href="#">Аксессуары для Apple TV</a></li>
+            <li><a href="#">Наушники</a></li>
+            <li><a href="#">Чехлы для AirPods</a></li>
+            <li><a href="#">Акустика</a></li>
+            <li><a href="#">Bang & Olufsen</a></li>
+            <li><a href="#">Упаковки и подарки</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">Bang & Olufsen</a>
+          <ul>
+            <li><a href="#">Наушники</a></li>
+            <li><a href="#">Портативные колонки</a></li>
+            <li><a href="#">Домашние аудиосистемы</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <div class="line"></div>
+    <nav class="other">
+      <ul>
+        <li><a href="#">Акции</a>
+          <ul>
+            <li><a href="#">Apple</a></li>
+            <li><a href="#">Satechi</a></li>
+            <li><a href="#">Native Union</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Услуги</a>
+          <ul>
+            <li><a href="#">Сервис и ремонт</a></li>
+            <li><a href="#">Услуги для Mac</a></li>
+            <li><a href="#">Услуги для iPad</a></li>
+            <li><a href="#">Услуги для iPhone</a></li>
+            <li><a href="#">Trade-in</a></li>
+            <li><a href="#">Страховка</a></li>
+            <li><a href="#">Подарочные сертификаты</a></li>
+            <li><a href="#">Видеоконсультации</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Обзоры</a>
+          <ul>
+            <li><a href="#">Новости</a></li>
+            <li><a href="#">Пресс-релизы</a></li>
+            <li><a href="#">Обзоры</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <div class="empty"></div>
+    <a href="#"><img src="img/shopping.svg"></a>
+  </div>
+</header>
+<main>
+  <div class="top_main">
+    <div>
+      <img src="img_goods/iphone_12_hero.webp">
+    </div>
+    <div>
+      <p>iPhone</p>
+      <p>Созданы для удобства.</p>
+    </div>
+  </div>
+  <div class="cellphones">
+    <div class="cell1 cell">
+      <a href="goods_iPhones.html"><div><span class="new">new</span><span class="action">акция</span></div>
+      <p>iPhone 12</p></a></div>
+    <div class="cell2 cell">
+      <a href="#"><div><span class="new">new</span></div>
+      <p>iPhone 12 Pro</p></a></div>
+    <div class="cell3 cell">
+      <a href="#"><div><span class="new">new</span></div>
+      <p>iPhone 12 Pro Max</p></a></div>
+    <div class="cell4 cell">
+      <a href="#"><div><span class="new">new</span><span class="action">акция</span></div>
+      <p>iPhone 12 mini</p></a></div>
+    <div class="cell5 cell">
+      <a href="#"><div><span class="action">акция</span></div>
+      <p>iPhone SE 2</p></a></div>
+    <div class="cell6 cell">
+      <a href="#"><div><span class="action">акция</span></div>
+      <p>iPhone 11</p></a></div>
+    <div class="cell7 cell">
+      <a href="#"><div><span class="new">new</span></div>
+      <p>iPhone XR</p></a></div>
+    <div class="cell8 cell">
+      <a href="#"><div></div>
+      <p>Услуги для iPhone</p></a></div>
+  </div>
+  <div class="oficial">
+    <p>i-Store (айСтор) - официальный партнёр компании Apple в Беларуси со статусом Apple Premium Reseller.
+      Выберите свой iPhone в магазине i-Store</p>
+    <p>Не знаете, какую модель iPhone выбрать? Наши онлайн-консультанты с радостью помогут вам найти телефон своей мечты.
+      Если вы решите совершить покупку в Минске, рекомендуем посетить наши салоны – там вы сможете познакомиться с
+      устройствами Apple и получить ответы на все интересующие вопросы.</p>
+    <p id="hidden" class="hidden">iStore.by имеет статус Apple Premium Reseller, что является подтверждением высокого
+      качества обслуживания, а приобретенный вами в Беларуси iPhone будет иметь официальную гарантию и обслуживаться в
+      авторизированных сервисных центрах. У нас представлена вся актуальная продукция Apple по ценам, которые не станут
+      для вас потрясением. Кроме того, мы стараемся сделать покупку iPhone доступной для каждого и предоставляем возможность
+      купить iPhone в рассрочку в Минске или оформить кредит.
+      <br><br>
+      Важно знать: при покупке ввезенного по серым схемам iPhone в интернет-магазине без сертификации вы рискуете приобрести
+      бывшее в употреблении устройство с активированным Apple ID, что лишает вас гарантии производителя. Также встречаются
+      случаи продажи iPhone после ремонта с использованием низкокачественных неоригинальных компонентов, в том числе
+      аккумуляторных батарей. Пользование такими устройствами может быть небезопасным.
+      <br><br>
+      Максимально производительные, стильные и функциональные — это лишь часть особенностей, которыми можно характеризовать
+      iPhone от Эпл. Это не просто мобильный телефон, предназначенный для связи. Это полноценный компактный компьютер,
+      который с легкостью справится с любой задачей. Такое устройство будет актуальным как для студента, так и для успешного
+      бизнесмена. Выгодно же купить айфон в Беларуси вы сможете в i-Store.</p>
+    <button onclick="showText()" id="show_text" class="show_text">Показать полностью</button>
+    <button onclick="hideText()" id="hide_text" class="hide_text">Свернуть</button>
+  </div>
+</main>
+<footer>
+  <div>
+    <a href="index.html" class="store_name">i-Store</a>
+    <div>
+      <p>Мы в социальных сетях:</p>
+      <a href="https://www.instagram.com/istoreby/" target="_blank" title="Instagram"><img src="img/instagram_white.svg"></a>
+      <a href="https://www.facebook.com/istoreby" target="_blank" title="Facebook"><img src="img/fb_white.svg"></a>
+      <a href="https://vk.com/istoreby" target="_blank" title="VK"><img src="img/vk_white.svg"></a>
+    </div>
+  </div>
+  <hr>
+  <div class="footer_payment">
+    <p>Торговое унитарное предприятие "Автоматизированные системы бизнес контроля"<br>
+      Свидетельство №101201190, выдано 16.04.2014 г. Мингорисполкомом УНП 101201190</p>
+    <p>220101, г. Минск , пр-т Рокоссовского 136А, пом. 2.<br>
+      Тел.: <a href="+375173870545">+375 17 387-05-45</a><br>
+      Дата регистрации в Торговом реестре Республики Беларусь: 11.04.2012</p>
+    <p>Мы принимаем:<br>
+      <img src="img/footer-paymentlogo.png" width="80%"></p>
+  </div>
+</footer>
+<script src="lower_menu.js"></script>
+</body>
+</html>

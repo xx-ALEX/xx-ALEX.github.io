@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>i-Store - Сеть фирменных магазинов</title>
+  <link rel="icon" type="image/png" href="https://cdn0.it4profit.com/favicon/g6/favicon-by.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://cdn0.it4profit.com/favicon/g6/favicon-by.png">
+  <link rel="stylesheet" href="i-store_by.css">
+  <link rel="stylesheet" href="media_index.css">
+</head>
+<body>
+<header>
+  <a class="installment_payment" href="#" title="Рассрочка">Беспроцентная рассрочка по карте ХАЛВА
+    <b>c 19 по 22 августа</b> в честь открытия нового магазина.&emsp;
+    <span>0%</span><span>0 BYN</span><span>6 мес</span></a>
+  <div class="main_info">
+    <div class="main_info_1">
+      <ul>
+        <li><a href="info.html#payment">Оплата и доставка</a></li>
+        <li><a href="info.html#shops">Адреса магазинов</a></li>
+        <li><a href="info.html#credit">Кредит</a></li>
+        <li><a href="info.html#legal_entities">Юр. лицам</a></li>
+      </ul>
+      <img class="clock" src="img/clock.svg" alt="clock">
+      <div class="working_time">
+        <p>9:00 - 21:00 (пн-пт);</p>
+        <p>10:00 - 19:00 (сб-вс)</p>
+      </div>
+      <img class="phone" src="img/phone.svg" alt="phone">
+      <a href="tel:+375291234567"><span>+375 (29) <b>Показать номер</b></span><span class="hidden">1-234-567</span></a>
+    </div>
+    <button type="button" class="personal">
+      <img class="user" src="img/user.svg" alt="user">
+      <span>Личный кабинет</span>
+    </button>
+    <div class="blackout"></div>
+    <div class="out"></div>
+    <form method="post" enctype="multipart/form-data" action="registration.jsp">
+      <p>Вход</p>
+      <p>Для доступа в Ваш личный кабинет введите номер мобильного или e-mail.</p>
+      <p>Введите номер мобильного телефона или e-mail*</p>
+      <input type="text" maxlength="50" name="email_and_phone_number" placeholder="+375291234567 или e-mail">
+      <input type="submit" value="Продолжить">
+      <p>Или нажмите на кнопку ниже для быстрого входа с Apple или Google
+        или Facebook если активировали одну из этих функций ранее.</p>
+      <div class="icons">
+        <a href="https://appleid.apple.com/auth/authorize?response_type=code&response_mode=form_post&client_id=PAcms.client&redirect_uri=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dapple&state=eyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6IjNlYjJjNjM5NDcifQ%3D%3D&scope=name+email"><div class="icon apple"></div></a>
+        <a href="https://accounts.google.com/o/oauth2/auth/identifier?response_type=code&access_type=online&client_id=390753250698-c9v7n2lq1g0thf2e609id4ftta2m06te.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dgoogle&state=eyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6IjJmNGJlNmMxOGIifQ%3D%3D&scope=email%20profile&approval_prompt=auto&flowName=GeneralOAuthFlow"><div class="icon google"></div></a>
+        <a href="https://www.facebook.com/login.php?skip_api_login=1&api_key=521933802296033&kid_directed_site=0&app_id=521933802296033&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv6.0%2Fdialog%2Foauth%3Fclient_id%3D521933802296033%26redirect_uri%3Dhttps%253A%252F%252Fi-store.by%252Fapi%252Fsocial-sign%253Fsocial%253Dfacebook%26scope%3Demail%26state%3DeyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6ImI5Y2EwZDRiZWQifQ%253D%253D%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D3c0d9b6d-3c7f-48d3-b8b1-1402ecc71cc0%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fi-store.by%2Fapi%2Fsocial-sign%3Fsocial%3Dfacebook%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DeyJzaXRlIjoiaHR0cHM6XC9cL2ktc3RvcmUuYnkiLCJhcHJfcGFnZSI6IiIsImVudF9zbGciOiIiLCJ1aWQiOjAsImtleSI6ImI5Y2EwZDRiZWQifQ%253D%253D%23_%3D_&display=page&locale=ru_RU&pl_dbl=0"><div class="icon facebook"></div></a>
+      </div>
+      <p>Нет аккаунта?&emsp;&emsp;&emsp;&emsp;<a href="#">Зарегестрироваться</a></p>
+    </form>
+    <div class="blackout_2"></div>
+  </div>
+  <div class="menu">
+    <a href="index.html" class="store_name">i-Store</a>
+    <nav class="goods">
+      <ul>
+        <li><a href="goods.html">Mac</a>
+          <ul>
+            <li><a href="#">MacBook Pro <span>new</span></a></li>
+            <li><a href="#">MacBook Air <span>new</span></a></li>
+            <li><a href="#">MacMini <span>new</span></a></li>
+            <li><a href="#">iMac <span>new</span></a></li>
+            <li><a href="#">MacBook Custom</a></li>
+            <li><a href="#">Аксессуары для Mac</a></li>
+            <li><a href="#">Услуги для Mac</a></li>
+            <li><a href="#">Jamf</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">iPad</a>
+          <ul>
+            <li><a href="#">iPad Pro 12,9 M1 <span>new</span></a></li>
+            <li><a href="#">iPad Pro 11 M1 <span>new</span></a></li>
+            <li><a href="#">iPad Air 4</a></li>
+            <li><a href="#">Pad 10,2</a></li>
+            <li><a href="#">iPad Pro 11</a></li>
+            <li><a href="#">iPad Pro 12,9</a></li>
+            <li><a href="#">iPad mini 5</a></li>
+            <li><a href="#">Аксессуары для iPad</a></li>
+            <li><a href="#">Услуги для iPad</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">iPhone</a>
+          <ul>
+            <li><a href="#">iPhone 12 <span>new</span></a></li>
+            <li><a href="#">iPhone 12 Pro <span>new</span></a></li>
+            <li><a href="#">iPhone 12 Pro Max <span>new</span></a></li>
+            <li><a href="#">iPhone 12 mini <span>new</span></a></li>
+            <li><a href="#">iPhone SE 2</a></li>
+            <li><a href="#">iPhone 11</a></li>
+            <li><a href="#">iPhone XR</a></li>
+            <li><a href="#">Аксессуары для iPhone</a></li>
+            <li><a href="#">Услуги для iPhone</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">TV</a>
+          <ul>
+            <li><a href="#">Apple TV 4K <span>new</span></a></li>
+            <li><a href="#">Аксессуары для Apple TV</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">AirPods</a>
+          <ul>
+            <li><a href="#">AirPods Pro</a></li>
+            <li><a href="#">AirPods 2</a></li>
+            <li><a href="#">AirPods Max</a></li>
+            <li><a href="#">Чехлы для AirPods</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">Умный дом</a></li>
+        <li><a href="goods.html">Аксессуары</a>
+          <ul>
+            <li><a href="#">AirTag <span>new</span></a></li>
+            <li><a href="#">Аксессуары для iPhone</a></li>
+            <li><a href="#">Аксессуары для iPad</a></li>
+            <li><a href="#">Аксессуары для Mac</a></li>
+            <li><a href="#">Аксессуары для Apple Watch</a></li>
+            <li><a href="#">Аксессуары для Apple TV</a></li>
+            <li><a href="#">Наушники</a></li>
+            <li><a href="#">Чехлы для AirPods</a></li>
+            <li><a href="#">Акустика</a></li>
+            <li><a href="#">Bang & Olufsen</a></li>
+            <li><a href="#">Упаковки и подарки</a></li>
+          </ul>
+        </li>
+        <li><a href="goods.html">Bang & Olufsen</a>
+          <ul>
+            <li><a href="#">Наушники</a></li>
+            <li><a href="#">Портативные колонки</a></li>
+            <li><a href="#">Домашние аудиосистемы</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <div class="line"></div>
+    <nav class="other">
+      <ul>
+        <li><a href="#">Акции</a>
+          <ul>
+            <li><a href="#">Apple</a></li>
+            <li><a href="#">Satechi</a></li>
+            <li><a href="#">Native Union</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Услуги</a>
+          <ul>
+            <li><a href="#">Сервис и ремонт</a></li>
+            <li><a href="#">Услуги для Mac</a></li>
+            <li><a href="#">Услуги для iPad</a></li>
+            <li><a href="#">Услуги для iPhone</a></li>
+            <li><a href="#">Trade-in</a></li>
+            <li><a href="#">Страховка</a></li>
+            <li><a href="#">Подарочные сертификаты</a></li>
+            <li><a href="#">Видеоконсультации</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Обзоры</a>
+          <ul>
+            <li><a href="#">Новости</a></li>
+            <li><a href="#">Пресс-релизы</a></li>
+            <li><a href="#">Обзоры</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <div class="empty"></div>
+    <a href="#"><img src="img/shopping.svg"></a>
+  </div>
+</header>
+<main>
+  <p class="title_phone">iPhone 12</p>
+  <table>
+    <tr>
+      <td rowspan="2">
+        <div class="side_filter">
+          <p>Цвет:</p>
+          <ul class="choose_color">
+            <li id="all" onclick="allColors(); allMemory()" data-color="all">Все цвета</li>
+            <li id="red" onclick="onlyRed(); allMemory()" data-color="red">(PRODUCT)RED</li>
+            <li id="white" onclick="onlyWhite(); allMemory()" data-color="white">Белый</li>
+            <li id="green" onclick="onlyGreen(); allMemory()" data-color="green">Зеленый</li>
+            <li id="blue" onclick="onlyBlue(); allMemory()" data-color="blue">Синий</li>
+            <li id="purple" onclick="onlyPurple(); allMemory()" data-color="purple">Фиолетовый</li>
+            <li id="black" onclick="onlyBlack(); allMemory()" data-color="black">Чёрный</li>
+          </ul>
+          <p>Внутренняя память:</p>
+          <ul class="choose_memory">
+            <li id="all_memory" onclick="allMemory(); allColors()" data-memory="all_memory">Все модели</li>
+            <li id="64GB" onclick="GB64(); allColors()" data-memory="64GB">64 ГБ</li>
+            <li id="128GB" onclick="GB128(); allColors()" data-memory="128GB">128 ГБ</li>
+            <li id="256GB" onclick="GB256(); allColors()" data-memory="256GB">256 ГБ</li>
+          </ul>
+        </div>
+      </td>
+      <td><p>Сортировка:</p>
+      <button onclick="priceUp()">по возрастанию цены</button>
+        <button onclick="priceDown()">по убыванию цены</button>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="iPhone12_container">
+          <div class="green_64 green 64GB box" data-price="2699">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Зелёный</a>
+              <p class="articul">Артикул: MGJ93FS/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 699 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="black_64 black 64GB box" data-price="2698">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Чёрный</a>
+              <p class="articul">Артикул: MGJ53RM/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 698 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="white_64 white 64GB box" data-price="2697">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Белый</a>
+              <p class="articul">Артикул: MGJ63RM/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 697 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="red_64 red 64GB box" data-price="2696">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Красный</a>
+              <p class="articul">Артикул: MGJ73RM/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 696 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="blue_64 blue 64GB box" data-price="2695">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Синий</a>
+              <p class="articul">Артикул: MGJ83RM/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 695 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="purple_64 purple 64GB box" data-price="2692">
+            <div class="colors">
+              <div><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 64 ГБ, Фиолетовый</a>
+              <p class="articul">Артикул: MJNQ3RM/A</p>
+              <p class="price"><span class="last_price">2 999 BYN</span><br>
+              <span>2 692 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="black_128 black 128GB box" data-price="2892">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Чёрный</a>
+              <p class="articul">Артикул: MGJA3RM/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 892 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="white_128 white 128GB box" data-price="2893">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Белый</a>
+              <p class="articul">Артикул: MGJC3RM/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 893 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="blue_128 blue 128GB box" data-price="2894">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Синий</a>
+              <p class="articul">Артикул: MGJE3RM/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 894 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="green_128 green 128GB box" data-price="2895">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Зелёный</a>
+              <p class="articul">Артикул: MGJF3FS/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 895 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="red_128 red 128GB box" data-price="2896">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Красный</a>
+              <p class="articul">Артикул: MGJD3RM/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 896 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="purple_128 purple 128GB box" data-price="2891">
+            <div class="colors">
+              <div><span class="new">new</span><span class="action">акция</span></div>
+              <a href="#">iPhone 12, 128 ГБ, Фиолетовый</a>
+              <p class="articul">Артикул: MJNP3RM/A</p>
+              <p class="price"><span class="last_price">3 199 BYN</span><br>
+              <span>2 891 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="black_256 black 256GB box" data-price="3599">
+            <div class="colors">
+              <div><span class="new">new</span></div>
+              <a href="#">iPhone 12, 256 ГБ, Чёрный</a>
+              <p class="articul">Артикул: MGJG3RM/A</p>
+              <p class="price"><span class="last_price"></span><br>
+              <span>3 599 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="white_256 white 256GB box" data-price="3597">
+            <div class="colors">
+              <div><span class="new">new</span></div>
+              <a href="#">iPhone 12, 256 ГБ, Белый</a>
+              <p class="articul">Артикул: MGJG3RM/A</p>
+              <p class="price"><span class="last_price"></span><br>
+              <span>3 597 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="blue_256 blue 256GB box" data-price="3595">
+            <div class="colors">
+              <div><span class="new">new</span></div>
+              <a href="#">iPhone 12, 256 ГБ, Синий</a>
+              <p class="articul">Артикул: MGJG3RM/A</p>
+              <p class="price"><span class="last_price"></span><br>
+              <span>3 595 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+          <div class="purple_256 purple 256GB box" data-price="3594">
+            <div class="colors">
+              <div><span class="new">new</span></div>
+              <a href="#">iPhone 12, 256 ГБ, Фиолетовый</a>
+              <p class="articul">Артикул: MGJG3RM/A</p>
+              <p class="price"><span class="last_price"></span><br>
+              <span>3 594 BYN</span></p>
+              <button class="buy"></button>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</main>
+<footer>
+  <div>
+    <a href="index.html" class="store_name">i-Store</a>
+    <div>
+      <p>Мы в социальных сетях:</p>
+      <a href="https://www.instagram.com/istoreby/" target="_blank" title="Instagram"><img src="img/instagram_white.svg"></a>
+      <a href="https://www.facebook.com/istoreby" target="_blank" title="Facebook"><img src="img/fb_white.svg"></a>
+      <a href="https://vk.com/istoreby" target="_blank" title="VK"><img src="img/vk_white.svg"></a>
+    </div>
+  </div>
+  <hr>
+  <div class="footer_payment">
+    <p>Торговое унитарное предприятие "Автоматизированные системы бизнес контроля"<br>
+      Свидетельство №101201190, выдано 16.04.2014 г. Мингорисполкомом УНП 101201190</p>
+    <p>220101, г. Минск , пр-т Рокоссовского 136А, пом. 2.<br>
+      Тел.: <a href="+375173870545">+375 17 387-05-45</a><br>
+      Дата регистрации в Торговом реестре Республики Беларусь: 11.04.2012</p>
+    <p>Мы принимаем:<br>
+      <img src="img/footer-paymentlogo.png" width="80%"></p>
+  </div>
+</footer>
+<script src="sorting.js"></script>
+</body>
+</html>
