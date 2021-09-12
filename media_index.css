@@ -1,0 +1,4597 @@
+@media screen and (min-width: 1289px) and (max-width: 1361px) {
+    a.installment_payment {
+        font-size: 21px;
+    }
+    a.installment_payment>span {
+        font-size: 31px;
+    }
+    div.menu a.store_name, footer>div>a.store_name {
+        font-size: 29px;
+    }
+    nav.goods>ul li a, nav.other>ul li a {
+        font-size: 15px;
+        padding: 5px 18px 21px 14px;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+    background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.iPhone {
+        height: 685px;
+        background: url("img/iPhone12_transp.png") 50% 120%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 340px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 340px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 340px;
+        background: url("img/smart_home.png") 50% 130%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 340px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 340px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+}
+@media screen and (min-width: 1217px) and (max-width: 1288px) {
+    a.installment_payment {
+        padding: 6px 18px 0 18px;
+        font-size: 20px;
+    }
+    a.installment_payment>span {
+        font-size: 28px;
+        top: 3px;
+    }
+    nav.goods>ul li a, nav.other>ul li a {
+        font-size: 14px;
+        padding: 5px 16px 21px 13px;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.iPhone {
+        height: 675px;
+        background: url("img/iPhone12_transp.png") 50% 120%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 335px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 335px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 335px;
+        background: url("img/smart_home.png") 50% 130%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 335px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 335px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+}
+@media screen and (min-width: 1114px) and (max-width: 1216px) {
+    a.installment_payment {
+        padding: 8px 12px 0 12px;
+        font-size: 18px;
+    }
+    a.installment_payment > span {
+        font-size: 25px;
+        top: 2px;
+    }
+    nav.goods > ul li a, nav.other > ul li a {
+        font-size: 13px;
+        padding: 5px 15px 23px 12px;
+    }
+    div.empty {
+        width: 90px;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+    }
+    div.iPhone {
+        height: 665px;
+        background: url("img/iPhone12_transp.png") 50% 120%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 330px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 330px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 330px;
+        background: url("img/smart_home.png") 50% 120%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 330px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 330px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+    div.lower_menu>div.banners {
+        height: 320px;
+    }
+}
+@media screen and (min-width: 1095px) and (max-width: 1113px) {
+    a.installment_payment {
+        padding: 8px 10px 0 10px;
+        font-size: 17px;
+    }
+    a.installment_payment>span {
+        font-size: 24px;
+        top: 2px;
+    }
+    nav.goods > ul li a, nav.other > ul li a {
+        font-size: 13px;
+        padding: 5px 15px 23px 12px;
+    }
+    div.menu a.store_name, footer>div>a.store_name {
+        font-size: 27px;
+    }
+    nav.other li:nth-of-type(3) ul {
+        position: absolute;
+        min-width: 180px;
+        padding-inline-start: 1px;
+    }
+    div.empty {
+        width: 20px;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+    }
+    div.iPhone {
+        height: 655px;
+        background: url("img/iPhone12_transp.png") 50% 120%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 325px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 325px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 325px;
+        background: url("img/smart_home.png") 50% 120%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 325px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 325px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+    div.lower_menu>div.banners {
+        height: 310px;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 42px;
+    }
+}
+@media screen and (min-width: 985px) and (max-width: 1094px) {
+    a.installment_payment {
+        padding: 12px 5px 0 5px;
+        font-size: 16px;
+    }
+    a.installment_payment>span {
+        font-size: 18px;
+        top: 0;
+    }
+    nav.goods > ul li a, nav.other > ul li a {
+        font-size: 13px;
+        padding: 5px 14px 23px 5px;
+    }
+    div.menu a.store_name, footer>div>a.store_name {
+        font-size: 26px;
+        margin: 12px 0 0 5px;
+    }
+    div.main_info_1>ul>li a {
+        margin: 22px 6px 0 0;
+        font-size: 12px;
+    }
+    div.working_time>p {
+        margin: 0 10px 0 0;
+        font-size: 13px;
+    }
+    nav.other li:nth-of-type(3) ul {
+        position: absolute;
+        min-width: 146px;
+        padding-inline-start: 1px;
+    }
+    div.empty {
+        display: none;
+    }
+    #btn-next, #btn-prev {
+        width: 3.2%;
+    }
+    div.slider-wrapper {
+        height: 43vw;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+    }
+    div.iPhone {
+        height: 625px;
+        background: url("img/iPhone12_transp.png") 50% 100%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 310px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 310px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 310px;
+        background: url("img/smart_home.png") 50% 100%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 310px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 310px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 36px;
+    }
+    button {
+        margin: 0 20px 0 10px;
+    }
+    button>span {
+        font-size: medium;
+    }
+    div.menu>a:nth-of-type(2) {
+        margin: 15px 35px 0 0;
+    }
+    div.lower_menu>div.banners {
+        height: 300px;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 36px;
+    }
+    div.footer_payment>p {
+        width: 32%;
+        font-size: 11px;
+        margin: 0 18px 18px 0;
+        line-height: 130%;
+    }
+}
+@media screen and (min-width: 890px) and (max-width: 984px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        margin: 50px 0 0 0;
+        padding: 2px 10px 0 10px;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 18px;
+        font-weight: lighter;
+        text-align: center;
+    }
+    a.installment_payment_hidden>span {
+        display: inline-block;
+        font-size: 18px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 30px 0 30px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 14px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 16px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    #btn-next, #btn-prev {
+        width: 3.3%;
+    }
+    div.slider-wrapper {
+        height: 43vw;
+    }
+    div.airpods_container>div:nth-of-type(1) {
+        background: url(img/iPods2.jpeg) 0 38%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(2) {
+        background: url(img/cases.jpeg) 0 38%/42% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div:nth-of-type(3) {
+        background: url(img/iPhones.jpeg) 0 38%/33% no-repeat #f6f6f6;
+    }
+    div.airpods_container>div>a>div>p:nth-of-type(1) {
+        font-size: medium;
+    }
+    div.iPhone {
+        height: 595px;
+        background: url("img/iPhone12_transp.png") 50% 100%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 295px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 295px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 295px;
+        background: url("img/smart_home.png") 50% 100%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 295px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 295px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 32px;
+    }
+    button {
+        margin: 0 20px 0 10px;
+    }
+    button>span {
+        font-size: medium;
+    }
+    div.menu>a:nth-of-type(2) {
+        margin: 15px 35px 0 0;
+    }
+    div.lower_menu>div.banners {
+        height: 280px;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 32px;
+    }
+    div.footer_payment>p {
+        width: 32%;
+        font-size: 10px;
+        margin: 0 18px 18px 0;
+        line-height: 130%;
+    }
+}
+@media screen and (min-width: 834px) and (max-width: 889px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        margin: 50px 0 0 0;
+        padding: 2px 8px 0 8px;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 17px;
+        font-weight: lighter;
+        text-align: center;
+    }
+    a.installment_payment_hidden>span {
+        display: inline-block;
+        font-size: 17px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 30px 0 30px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 14px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 16px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    #btn-next, #btn-prev {
+        top: 40%;
+        width: 4%;
+    }
+    div.slider-wrapper {
+        height: 42vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone {
+        height: 575px;
+        background: url("img/iPhone12_transp.png") 50% 100%/270% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        height: 285px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 80%/62% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        height: 285px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        height: 285px;
+        background: url("img/smart_home.png") 50% 100%/75% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        height: 285px;
+        background: url("img/macmini.png") 50% 88%/86% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        height: 285px;
+        background: url("img/airpods_max.png") 50% 87%/72% no-repeat #f6f6f6;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 30px;
+    }
+    button {
+        margin: 0 20px 0 10px;
+    }
+    button>span {
+        font-size: medium;
+    }
+    div.menu>a:nth-of-type(2) {
+        margin: 15px 35px 0 0;
+    }
+    div.lower_menu>div.banners {
+        height: 270px;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 28px;
+    }
+    div.footer_payment>p {
+        width: 32%;
+        font-size: 10px;
+        margin: 0 18px 18px 0;
+        line-height: 130%;
+    }
+}
+@media screen and (min-width: 730px) and (max-width: 833px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 42px;
+        margin: 50px 0 0 0;
+        padding: 2px 0 0 0;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        line-height: 130%;
+    }
+    a.installment_payment_hidden>span {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 30px 0 30px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 14px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 16px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    #btn-next, #btn-prev {
+        top: 40%;
+        width: 4.1%;
+    }
+    div.slider-wrapper {
+        height: 41vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container {
+        display: none;
+    }
+    div.iPhone_container_hidden {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 4px 4px;
+        grid-template-areas:
+                "iPhone Mac iPad"
+                "smart_home Mac_mini accessories";
+    }
+    div.iPhone {
+        grid-area: iPhone;
+        height: 260px;
+        background: url("img/iPhone12_transp.png") 50% 130%/120% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        grid-area: Mac;
+        height: 260px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        grid-area: iPad;
+        height: 260px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        grid-area: smart_home;
+        height: 260px;
+        background: url("img/smart_home.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        grid-area: Mac_mini;
+        height: 260px;
+        background: url("img/macmini.png") 50% 90%/90% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        grid-area: accessories;
+        height: 260px;
+        background: url("img/airpods_max.png") 50% 90%/65% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div>a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+        padding: 0 20px 0 30px;
+        box-sizing: border-box;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(2) {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.6);
+        margin: -10px 0 0 0;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) {
+        color: #5ab9f8;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3)>span>img {
+        opacity: 0;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container_hidden>div.iPhone>a:hover {
+        background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 90%/25% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac>a:hover {
+        background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.iPad>a:hover {
+        background: url("img/iPad.png") 10% 90%/60% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.smart_home>a:hover {
+        background: url("img/Apple_HomeKit.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac_mini>a:hover {
+        background: url("img/Mac-Mini-M1.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.accessories>a:hover {
+        background: url("img/air_pods_max.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 28px;
+    }
+    button {
+        margin: 0 20px 0 10px;
+    }
+    button>span {
+        font-size: medium;
+    }
+    div.menu>a:nth-of-type(2) {
+        margin: 15px 35px 0 0;
+    }
+    div.lower_menu>div.banners {
+        height: 260px;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 26px;
+    }
+    div.footer_payment>p {
+        width: 32%;
+        font-size: 10px;
+        margin: 0 18px 18px 0;
+        line-height: 130%;
+    }
+}
+@media screen and (min-width: 623px) and (max-width: 729px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden2 {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 62px;
+        margin: 50px 0 0 0;
+        padding: 2px 0 0 0;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        line-height: 130%;
+    }
+    a.installment_payment_hidden2>span {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden2 span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 30px 0 30px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 14px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 16px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    div.slide:nth-of-type(1) {
+        background: url("img/img1.png") center/90% no-repeat #fafafa;
+    }
+    div.slide:nth-of-type(2) {
+        background: url("img/img2.png") center/77% no-repeat #d8f1ff;
+    }
+    div.slide:nth-of-type(3) {
+        background: url("img/img3.png") center/90% no-repeat #ffffff;
+    }
+    div.slide:nth-of-type(4) {
+        background: url("img/img4.png") center/77% no-repeat #f2f2f2;
+    }
+    div.slide:nth-of-type(5) {
+        background: url("img/img5.png") center/90% no-repeat #f6f5f8;
+    }
+    div.slide:nth-of-type(6) {
+        background: url("img/img6.png") center/90% no-repeat #000000;
+    }
+    #btn-next, #btn-prev {
+        top: 38%;
+        width: 4.1%;
+    }
+    div.slider-wrapper {
+        height: 41vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 12% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container {
+        display: none;
+    }
+    div.iPhone_container_hidden {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 4px 4px;
+        grid-template-areas:
+                "iPhone Mac iPad"
+                "smart_home Mac_mini accessories";
+    }
+    div.iPhone {
+        grid-area: iPhone;
+        height: 260px;
+        background: url("img/iPhone12_transp.png") 50% 100%/100% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        grid-area: Mac;
+        height: 260px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        grid-area: iPad;
+        height: 260px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        grid-area: smart_home;
+        height: 260px;
+        background: url("img/smart_home.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        grid-area: Mac_mini;
+        height: 260px;
+        background: url("img/macmini.png") 50% 90%/90% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        grid-area: accessories;
+        height: 260px;
+        background: url("img/airpods_max.png") 50% 90%/65% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div>a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+        padding: 0 20px 0 30px;
+        box-sizing: border-box;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(2) {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.6);
+        margin: -10px 0 0 0;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) {
+        color: #5ab9f8;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3)>span>img {
+        opacity: 0;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container_hidden>div.iPhone>a:hover {
+        background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 90%/25% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac>a:hover {
+        background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.iPad>a:hover {
+        background: url("img/iPad.png") 10% 90%/60% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.smart_home>a:hover {
+        background: url("img/Apple_HomeKit.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac_mini>a:hover {
+        background: url("img/Mac-Mini-M1.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.accessories>a:hover {
+        background: url("img/air_pods_max.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.lower_menu {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        background: #f6f6f6;
+        padding: 20px 30px 20px 30px;
+        box-sizing: border-box;
+    }
+    div.lower_menu>ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        min-height: 32px;
+        margin: 0;
+        padding: 0 0 5px 0;
+        list-style-type: none;
+    }
+    button.inactive {
+        font-size: 20px;
+    }
+    button.active {
+        font-size: 20px;
+    }
+    div.lower_menu>div.banners {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 80%;
+        height: 1340px;
+        margin: auto;
+    }
+    div.banners_1row {
+        width: 100%;
+        display: none;
+    }
+    div.show1>a, div.show2>a, div.show3>a {
+        text-decoration: none;
+        color: black;
+    }
+    div.show1>a:nth-of-type(1):hover, div.show1>a:nth-of-type(2):hover,
+    div.show1>a:nth-of-type(3):hover, div.show1>a:nth-of-type(4):hover,
+    div.show2>a:nth-of-type(1):hover, div.show2>a:nth-of-type(2):hover,
+    div.show2>a:nth-of-type(3):hover, div.show2>a:nth-of-type(4):hover,
+    div.show3>a:nth-of-type(1):hover, div.show3>a:nth-of-type(2):hover,
+    div.show3>a:nth-of-type(3):hover, div.show3>a:nth-of-type(4):hover {
+        -webkit-transform: scale(1.08);
+        transform: scale(1.08);
+        border: solid deepskyblue 1px;
+
+    }
+    div.show1>a:nth-of-type(1) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_1.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(2) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(3) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(4) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a>p:nth-of-type(1), div.show2>a>p:nth-of-type(1), div.show3>a>p:nth-of-type(1) {
+        font-weight: bold;
+        font-size: 16px;
+    }
+    div.show1>a>p:nth-of-type(2), div.show2>a>p:nth-of-type(2), div.show3>a>p:nth-of-type(2) {
+        font-weight: lighter;
+        font-size: 14px;
+    }
+    div.banners_2row {
+        width: 100%;
+        display: none;
+    }
+    div.show2>a:nth-of-type(1) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_1.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(2) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_2.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(3) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_3.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(4) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.banners_3row {
+        width: 100%;
+        display: none;
+    }
+    div.show3>a:nth-of-type(1) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_1.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(2) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(3) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(4) {
+        width: 400px;
+        height: 320px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_4.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1, div.show2, div.show3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 28px;
+    }
+}
+@media screen and (min-width: 485px) and (max-width: 622px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden2 {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 62px;
+        margin: 50px 0 0 0;
+        padding: 2px 0 0 0;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        line-height: 130%;
+    }
+    a.installment_payment_hidden2>span {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden2 span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 30px 0 30px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 14px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 14px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    div.slide:nth-of-type(1) {
+        background: url("img/img1.png") center/95% no-repeat #fafafa;
+    }
+    div.slide:nth-of-type(2) {
+        background: url("img/img2.png") center/83% no-repeat #d8f1ff;
+    }
+    div.slide:nth-of-type(3) {
+        background: url("img/img3.png") center/96% no-repeat #ffffff;
+    }
+    div.slide:nth-of-type(4) {
+        background: url("img/img4.png") center/83% no-repeat #f2f2f2;
+    }
+    div.slide:nth-of-type(5) {
+        background: url("img/img5.png") center/96% no-repeat #f6f5f8;
+    }
+    div.slide:nth-of-type(6) {
+        background: url("img/img6.png") center/96% no-repeat #000000;
+    }
+    #btn-next, #btn-prev {
+        top: 45%;
+        width: 4.1%;
+    }
+    div.slider-wrapper {
+        height: 52vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 8% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 8% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 8% 0/contain no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: .4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: .7s;
+    }
+    div.iPhone_container {
+        display: none;
+    }
+    div.iPhone_container_hidden {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        gap: 4px 4px;
+        grid-template-areas:
+                "iPhone Mac"
+                "iPad smart_home"
+                "Mac_mini accessories";
+    }
+    div.iPhone {
+        grid-area: iPhone;
+        height: 260px;
+        background: url("img/iPhone12_transp.png") 50% 100%/100% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        grid-area: Mac;
+        height: 260px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        grid-area: iPad;
+        height: 260px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        grid-area: smart_home;
+        height: 260px;
+        background: url("img/smart_home.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        grid-area: Mac_mini;
+        height: 260px;
+        background: url("img/macmini.png") 50% 90%/90% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        grid-area: accessories;
+        height: 260px;
+        background: url("img/airpods_max.png") 50% 90%/65% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div>a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+        padding: 0 20px 0 30px;
+        box-sizing: border-box;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(2) {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.6);
+        margin: -10px 0 0 0;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) {
+        color: #5ab9f8;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3)>span>img {
+        opacity: 0;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container_hidden>div.iPhone>a:hover {
+        background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 90%/25% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac>a:hover {
+        background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.iPad>a:hover {
+        background: url("img/iPad.png") 10% 90%/60% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.smart_home>a:hover {
+        background: url("img/Apple_HomeKit.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac_mini>a:hover {
+        background: url("img/Mac-Mini-M1.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.accessories>a:hover {
+        background: url("img/air_pods_max.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.lower_menu {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        background: #f6f6f6;
+        padding: 20px 5px 20px 5px;
+        box-sizing: border-box;
+    }
+    div.lower_menu>ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        min-height: 32px;
+        margin: 0;
+        padding: 0 0 5px 0;
+        list-style-type: none;
+    }
+    button.inactive {
+        font-size: 18px;
+    }
+    button.active {
+        font-size: 18px;
+    }
+    div.lower_menu>div.banners {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 80%;
+        height: 1340px;
+        margin: auto;
+    }
+    div.banners_1row {
+        width: 100%;
+        display: none;
+    }
+    div.show1>a, div.show2>a, div.show3>a {
+        text-decoration: none;
+        color: black;
+    }
+    div.show1>a:nth-of-type(1):hover, div.show1>a:nth-of-type(2):hover,
+    div.show1>a:nth-of-type(3):hover, div.show1>a:nth-of-type(4):hover,
+    div.show2>a:nth-of-type(1):hover, div.show2>a:nth-of-type(2):hover,
+    div.show2>a:nth-of-type(3):hover, div.show2>a:nth-of-type(4):hover,
+    div.show3>a:nth-of-type(1):hover, div.show3>a:nth-of-type(2):hover,
+    div.show3>a:nth-of-type(3):hover, div.show3>a:nth-of-type(4):hover {
+        -webkit-transform: scale(1.08);
+        transform: scale(1.08);
+        border: solid deepskyblue 1px;
+    }
+    div.show1>a:nth-of-type(1) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_1.png") top/87% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(2) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(3) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(4) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a>p:nth-of-type(1), div.show2>a>p:nth-of-type(1), div.show3>a>p:nth-of-type(1) {
+        font-weight: bold;
+        font-size: 14px;
+    }
+    div.show1>a>p:nth-of-type(2), div.show2>a>p:nth-of-type(2), div.show3>a>p:nth-of-type(2) {
+        font-weight: lighter;
+        font-size: 12px;
+    }
+    div.banners_2row {
+        width: 100%;
+        display: none;
+    }
+    div.show2>a:nth-of-type(1) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(2) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_2.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(3) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_3.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(4) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.banners_3row {
+        width: 100%;
+        display: none;
+    }
+    div.show3>a:nth-of-type(1) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(2) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(3) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(4) {
+        width: 370px;
+        height: 310px;
+        margin: 10px auto;
+        padding: 0 5px 0 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_4.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1, div.show2, div.show3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 26px;
+    }
+    footer {
+        margin: 40px 0 0 0;
+    }
+    footer>div {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 10px;
+    }
+    footer>div>a.store_name {
+        display: block;
+        margin: auto;
+        border: none;
+    }
+    footer>div>div {
+        display: flex;
+        justify-content: center;
+        color: white;
+        height: 50px;
+        margin: 0 0 0 10px;
+        padding: 5px 0 0 5px;
+    }
+    footer>div>div>a {
+        width: 30px;
+        height: 30px;
+        display: block;
+        margin: 10px 5px 0 10px;
+    }
+    footer>div>div>a:nth-of-type(1) {
+        background: url("img/instagram.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(2) {
+        background: url("img/fb.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(3) {
+        background: url("img/vk.svg") center/100% no-repeat;
+    }
+    footer>div>div>a>img {
+        width: 30px;
+        height: 30px;
+        opacity: 0;
+    }
+    footer>div>div>a:nth-of-type(1):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(2):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(3):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>hr {
+        margin: 0 10px 0 10px;
+        border: solid 1px rgba(115, 148, 232, 0.6);
+    }
+    div.footer_payment {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(220, 220, 220, 0.9);
+        margin: 10px 30px 0 30px;
+        padding: 5px 0 0 5px;
+    }
+    div.footer_payment>p {
+        width: 95%;
+        font-size: 12px;
+        margin: 10px auto;
+        line-height: 130%;
+    }
+    div.footer_payment>p>a {
+        text-decoration: none;
+        color: rgba(220, 220, 220, 0.9);
+    }
+    div.footer_payment>p>a:hover {
+        text-decoration: underline;
+    }
+}
+@media screen and (min-width: 466px) and (max-width: 484px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden2 {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 60px;
+        margin: 50px 0 0 0;
+        padding: 0 2px 0 2px;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        line-height: 130%;
+    }
+    a.installment_payment_hidden2>span {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden2 span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 5px 0 5px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 4px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 11px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    div.slide:nth-of-type(1) {
+        background: url("img/img1.png") center/95% no-repeat #fafafa;
+    }
+    div.slide:nth-of-type(2) {
+        background: url("img/img2.png") center/83% no-repeat #d8f1ff;
+    }
+    div.slide:nth-of-type(3) {
+        background: url("img/img3.png") center/96% no-repeat #ffffff;
+    }
+    div.slide:nth-of-type(4) {
+        background: url("img/img4.png") center/83% no-repeat #f2f2f2;
+    }
+    div.slide:nth-of-type(5) {
+        background: url("img/img5.png") center/96% no-repeat #f6f5f8;
+    }
+    div.slide:nth-of-type(6) {
+        background: url("img/img6.png") center/96% no-repeat #000000;
+    }
+    #btn-next, #btn-prev {
+        top: 45%;
+        width: 4.1%;
+    }
+    div.slider-wrapper {
+        height: 60vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 0 40%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 0 40%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 0 0/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 10px 0 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: .4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: .7s;
+    }
+    div.iPhone_container {
+        display: none;
+    }
+    div.iPhone_container_hidden {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 4px 4px;
+        grid-template-areas:
+                "iPhone"
+                "Mac"
+                "iPad"
+                "smart_home"
+                "Mac_mini"
+                "accessories";
+    }
+    div.iPhone {
+        grid-area: iPhone;
+        height: 260px;
+        background: url("img/iPhone12_transp.png") 50% 120%/90% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        grid-area: Mac;
+        height: 260px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        grid-area: iPad;
+        height: 260px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        grid-area: smart_home;
+        height: 260px;
+        background: url("img/smart_home.png") 50% 110%/50% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        grid-area: Mac_mini;
+        height: 260px;
+        background: url("img/macmini.png") 50% 90%/90% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        grid-area: accessories;
+        height: 260px;
+        background: url("img/airpods_max.png") 50% 95%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div>a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+        padding: 0 20px 0 30px;
+        box-sizing: border-box;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(2) {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.6);
+        margin: -10px 0 0 0;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) {
+        color: #5ab9f8;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3)>span>img {
+        opacity: 0;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container_hidden>div.iPhone>a:hover {
+        background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 90%/25% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac>a:hover {
+        background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.iPad>a:hover {
+        background: url("img/iPad.png") 10% 90%/60% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.smart_home>a:hover {
+        background: url("img/Apple_HomeKit.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac_mini>a:hover {
+        background: url("img/Mac-Mini-M1.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.accessories>a:hover {
+        background: url("img/air_pods_max.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.lower_menu {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        background: #f6f6f6;
+        padding: 10px 0 10px 0;
+        box-sizing: border-box;
+    }
+    div.lower_menu>ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        min-height: 30px;
+        margin: 0;
+        padding: 0 0 5px 0;
+        list-style-type: none;
+    }
+    button.inactive {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+    button.active {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+    div.lower_menu>div.banners {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 92%;
+        height: 1160px;
+        margin: auto;
+    }
+    div.banners_1row {
+        width: 100%;
+        display: none;
+    }
+    div.show1>a, div.show2>a, div.show3>a {
+        text-decoration: none;
+        color: black;
+    }
+    div.show1>a:nth-of-type(1):hover, div.show1>a:nth-of-type(2):hover,
+    div.show1>a:nth-of-type(3):hover, div.show1>a:nth-of-type(4):hover,
+    div.show2>a:nth-of-type(1):hover, div.show2>a:nth-of-type(2):hover,
+    div.show2>a:nth-of-type(3):hover, div.show2>a:nth-of-type(4):hover,
+    div.show3>a:nth-of-type(1):hover, div.show3>a:nth-of-type(2):hover,
+    div.show3>a:nth-of-type(3):hover, div.show3>a:nth-of-type(4):hover {
+        -webkit-transform: scale(1.08);
+        transform: scale(1.08);
+        border: solid deepskyblue 1px;
+    }
+    div.show1>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_1.png") top/87% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a>p:nth-of-type(1), div.show2>a>p:nth-of-type(1), div.show3>a>p:nth-of-type(1) {
+        font-weight: bold;
+        font-size: 14px;
+    }
+    div.show1>a>p:nth-of-type(2), div.show2>a>p:nth-of-type(2), div.show3>a>p:nth-of-type(2) {
+        font-weight: lighter;
+        font-size: 12px;
+    }
+    div.banners_2row {
+        width: 100%;
+        display: none;
+    }
+    div.show2>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_2.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_3.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.banners_3row {
+        width: 100%;
+        display: none;
+    }
+    div.show3>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_4.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1, div.show2, div.show3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 22px;
+    }
+    footer {
+        margin: 40px 0 0 0;
+    }
+    footer>div {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 10px;
+    }
+    footer>div>a.store_name {
+        display: block;
+        margin: auto;
+        border: none;
+    }
+    footer>div>div {
+        display: flex;
+        justify-content: center;
+        color: white;
+        height: 50px;
+        margin: 0 0 0 10px;
+        padding: 5px 0 0 5px;
+    }
+    footer>div>div>a {
+        width: 30px;
+        height: 30px;
+        display: block;
+        margin: 10px 5px 0 10px;
+    }
+    footer>div>div>a:nth-of-type(1) {
+        background: url("img/instagram.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(2) {
+        background: url("img/fb.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(3) {
+        background: url("img/vk.svg") center/100% no-repeat;
+    }
+    footer>div>div>a>img {
+        width: 30px;
+        height: 30px;
+        opacity: 0;
+    }
+    footer>div>div>a:nth-of-type(1):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(2):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(3):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>hr {
+        margin: 0 10px 0 10px;
+        border: solid 1px rgba(115, 148, 232, 0.6);
+    }
+    div.footer_payment {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(220, 220, 220, 0.9);
+        margin: 10px 30px 0 30px;
+        padding: 5px 0 0 5px;
+    }
+    div.footer_payment>p {
+        width: 95%;
+        font-size: 12px;
+        margin: 10px auto;
+        line-height: 130%;
+    }
+    div.footer_payment>p>a {
+        text-decoration: none;
+        color: rgba(220, 220, 220, 0.9);
+    }
+    div.footer_payment>p>a:hover {
+        text-decoration: underline;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 465px) {
+    a.installment_payment {
+        display: none;
+    }
+    a.installment_payment_hidden2 {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 80px;
+        margin: 50px 0 0 0;
+        padding: 0 2px 0 2px;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, deeppink, blueviolet, purple);
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        line-height: 130%;
+    }
+    a.installment_payment_hidden2>span {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 20px 0 18px;
+        font-weight: bold;
+    }
+    a.installment_payment_hidden2 span:nth-of-type(2) {
+        border-left: solid 1px;
+        border-right: solid 1px;
+    }
+    div.main_info {
+        display: none;
+    }
+    div.main_info_hidden {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div.main_info_1_hidden {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    div.main_info_1_hidden>ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 5px 0 5px;
+        padding: 0;
+    }
+    div.main_info_1_hidden>ul>li a {
+        text-decoration: none;
+        display: block;
+        margin: 15px 4px 0 0;
+        color: rgba(36, 34, 34, 0.8);
+        font-size: 11px;
+    }
+    div.main_info_1_hidden>ul>li a:hover {
+        color: rgb(21, 24, 210);
+        transition: 0.6s;
+    }
+    div.menu {
+        display: none;
+    }
+    nav.mobile-menu {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 0 16px;
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.92);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+    div.icons {
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 0 10px 4px 0;
+        background: none;
+    }
+    div.icons>img {
+        width: 28px;
+        margin: 0 10px 0 10px;
+        cursor: pointer;
+    }
+    label.mobile-menu_btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        transition: .4s;
+    }
+    label.submenu {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        border-bottom: solid 1px gainsboro;
+        padding: 7px 20px 7px 5px;
+    }
+    label.submenu>div {
+        width: 28px;
+        height: 28px;
+        background: url("img/to_right.svg") center/110% no-repeat;
+    }
+    label.submenu:hover {
+        background: gainsboro;
+        color: black;
+    }
+    label.submenu:hover>div {
+        background: url("img/to_right(black).svg") center/110% no-repeat;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac'],
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad'],
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone'],
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV'],
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods'],
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories'],
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang'],
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action'],
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services'],
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews'] {
+        background: gainsboro;
+        color: black;
+    }
+    input.mobile-submenu_checkbox_Mac:checked ~ li>a>label[for^='Mac']>div,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>a>label[for^='iPad']>div,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>a>label[for^='iPhone']>div,
+    input.mobile-submenu_checkbox_TV:checked ~ li>a>label[for^='TV']>div,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>a>label[for^='AirPods']>div,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>a>label[for^='accessories']>div,
+    input.mobile-submenu_checkbox_bang:checked ~ li>a>label[for^='bang']>div,
+    input.mobile-submenu_checkbox_action:checked ~ li>a>label[for^='action']>div,
+    input.mobile-submenu_checkbox_services:checked ~ li>a>label[for^='services']>div,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>a>label[for^='reviews']>div {
+        background: url("img/to_down.svg") center/110% no-repeat;
+    }
+    div.mobile-menu_icon {
+        display: block;
+        position: relative;
+        background: gainsboro;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after, div.mobile-menu_icon::before {
+        content: "";
+        display: block;
+        background: white;
+        width: 100%;
+        height: 4px;
+        transition: .4s;
+    }
+    div.mobile-menu_icon::after {
+        position: relative;
+        top: 8px;
+    }
+    div.mobile-menu_icon::before {
+        position: relative;
+        top: -12px;
+    }
+    div.mobile-menu_container {
+        position: fixed;
+        text-align: left;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        top: 50px;
+        left: 0;
+        width: 99vw;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .5s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-submenu_list_Mac, ul.mobile-submenu_list_iPad, ul.mobile-submenu_list_iPhone, ul.mobile-submenu_list_TV,
+    ul.mobile-submenu_list_AirPods, ul.mobile-submenu_list_accessories, ul.mobile-submenu_list_bang,
+    ul.mobile-submenu_list_action, ul.mobile-submenu_list_services, ul.mobile-submenu_list_reviews {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 10px 0 10px 0;
+        z-index: 999;
+        height: 0;
+        opacity: 1;
+        transition: .3s;
+        overflow: auto;
+        background: rgb(69, 65, 65);
+    }
+    ul.mobile-menu_list {
+        transition: .5s;
+        list-style: none;
+        margin: 20px 0 10px 30px;
+        padding: 5px 0 0 5px;
+        width: 100%;
+    }
+    li.mobile-menu_item {
+        font-size: 28px;
+        margin: -20px 0 0 0;
+    }
+    li.mobile-submenu_item {
+        list-style: disc;
+        color: gainsboro;
+        font-size: 28px;
+        padding: 7px;
+        margin: 0 0 10px 30px;
+    }
+    a.mobile-menu_link {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: gainsboro;
+    }
+    a.fat {
+        font-weight: bold;
+    }
+    li.mobile-submenu_item:hover {
+        background: gainsboro;
+    }
+    li.mobile-submenu_item:hover>a {
+        color: black;
+    }
+    input.mobile-menu_checkbox, input.mobile-submenu_checkbox_Mac, input.mobile-submenu_checkbox_iPad,
+    input.mobile-submenu_checkbox_iPhone, input.mobile-submenu_checkbox_TV, input.mobile-submenu_checkbox_AirPods,
+    input.mobile-submenu_checkbox_accessories, input.mobile-submenu_checkbox_bang, input.mobile-submenu_checkbox_action,
+    input.mobile-submenu_checkbox_services, input.mobile-submenu_checkbox_reviews {
+        display: none;
+    }
+    input.mobile-menu_checkbox:checked ~ div.mobile-menu_container,
+    input.mobile-submenu_checkbox_Mac:checked ~ li>ul.mobile-submenu_list_Mac,
+    input.mobile-submenu_checkbox_iPad:checked ~ li>ul.mobile-submenu_list_iPad,
+    input.mobile-submenu_checkbox_iPhone:checked ~ li>ul.mobile-submenu_list_iPhone,
+    input.mobile-submenu_checkbox_TV:checked ~ li>ul.mobile-submenu_list_TV,
+    input.mobile-submenu_checkbox_AirPods:checked ~ li>ul.mobile-submenu_list_AirPods,
+    input.mobile-submenu_checkbox_accessories:checked ~ li>ul.mobile-submenu_list_accessories,
+    input.mobile-submenu_checkbox_bang:checked ~ li>ul.mobile-submenu_list_bang,
+    input.mobile-submenu_checkbox_action:checked ~ li>ul.mobile-submenu_list_action,
+    input.mobile-submenu_checkbox_services:checked ~ li>ul.mobile-submenu_list_services,
+    input.mobile-submenu_checkbox_reviews:checked ~ li>ul.mobile-submenu_list_reviews {
+        height: 90%;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon {
+        background: transparent;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::before,
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        top: 0;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn>div.mobile-menu_icon::after {
+        transform: rotate(45deg) translateY(-3px);
+        -webkit-transform: rotate(45deg) translateY(-3px);
+        background: orangered;
+    }
+    input.mobile-menu_checkbox:checked ~ label.mobile-menu_btn div.mobile-menu_icon::before {
+        transform: rotate(-45deg) translateY(3px);
+        -webkit-transform: rotate(-45deg) translateY(3px);
+        background: orangered;
+    }
+    div.slide:nth-of-type(1) {
+        background: url("img/img1.png") center/95% no-repeat #fafafa;
+    }
+    div.slide:nth-of-type(2) {
+        background: url("img/img2.png") center/83% no-repeat #d8f1ff;
+    }
+    div.slide:nth-of-type(3) {
+        background: url("img/img3.png") center/96% no-repeat #ffffff;
+    }
+    div.slide:nth-of-type(4) {
+        background: url("img/img4.png") center/83% no-repeat #f2f2f2;
+    }
+    div.slide:nth-of-type(5) {
+        background: url("img/img5.png") center/96% no-repeat #f6f5f8;
+    }
+    div.slide:nth-of-type(6) {
+        background: url("img/img6.png") center/96% no-repeat #000000;
+    }
+    #btn-next, #btn-prev {
+        top: 45%;
+        width: 4.1%;
+    }
+    div.slider-wrapper {
+        height: 60vw;
+    }
+    div.airpods_container {
+        display: none;
+    }
+    div.airpods_container_hidden {
+        display: flex;
+        flex-direction: column;
+    }
+    div.airpods_container_hidden>div:first-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-child(2) {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:last-child {
+        height: 170px;
+        background: #f6f6f6;
+        margin: 4px 0 0 0;
+    }
+    div.airpods_container_hidden>div:nth-of-type(1) {
+        background: url("img/iPods2.jpeg") 0 40%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(2) {
+        background: url("img/cases.jpeg") 0 40%/40% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden>div:nth-of-type(3) {
+        background: url("img/iPhones.jpeg") 0 0/39% no-repeat #f6f6f6;
+    }
+    div.airpods_container_hidden a {
+        display: flex;
+        justify-content: flex-end;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+    }
+    div.airpods_container_hidden>div>a>div {
+        width: 52%;
+        padding: 10px 10px 0 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: large;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.airpods_container_hidden>div>a>div>p:nth-of-type(2) {
+        color: rgba(0, 0, 0, 0.6);
+        line-height: 140%;
+        margin: -10px 0 0 0;
+    }
+    div.airpods_container_hidden span {
+        color: #5ab9f8;
+        display: inline-block;
+    }
+    div.airpods_container_hidden span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.airpods_container_hidden span:nth-of-type(2)>img {
+        opacity: 0;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: .4s;
+    }
+    div.airpods_container_hidden a:hover span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: .7s;
+    }
+    div.iPhone_container {
+        display: none;
+    }
+    div.iPhone_container_hidden {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 4px 4px;
+        grid-template-areas:
+                "iPhone"
+                "Mac"
+                "iPad"
+                "smart_home"
+                "Mac_mini"
+                "accessories";
+    }
+    div.iPhone {
+        grid-area: iPhone;
+        height: 260px;
+        background: url("img/iPhone12_transp.png") 50% 120%/80% no-repeat #f6f6f6;
+    }
+    div.Mac {
+        grid-area: Mac;
+        height: 260px;
+        background: url("img/YourPng.com - 2163x700.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPad {
+        grid-area: iPad;
+        height: 260px;
+        background: url("img/iPad_transp.png") 30% 80%/99% no-repeat #f6f6f6;
+    }
+    div.smart_home {
+        grid-area: smart_home;
+        height: 260px;
+        background: url("img/smart_home.png") 50% 110%/48% no-repeat #f6f6f6;
+    }
+    div.Mac_mini {
+        grid-area: Mac_mini;
+        height: 260px;
+        background: url("img/macmini.png") 50% 90%/90% no-repeat #f6f6f6;
+    }
+    div.accessories {
+        grid-area: accessories;
+        height: 260px;
+        background: url("img/airpods_max.png") 50% 95%/50% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div>a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        width: 100%;
+        height: 100%;
+        padding: 0 20px 0 30px;
+        box-sizing: border-box;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(1) {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(2) {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.6);
+        margin: -10px 0 0 0;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) {
+        color: #5ab9f8;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3) span:nth-of-type(2) {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        background: url("img/next.svg") center/100% no-repeat;
+    }
+    div.iPhone_container_hidden>div>a>div>p:nth-of-type(3)>span>img {
+        opacity: 0;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(1) {
+        text-decoration: underline;
+        color: orangered;
+        transition: 0.4s;
+    }
+    div.iPhone_container_hidden a:hover div span:nth-of-type(2)>img {
+        opacity: 1;
+        transition: 0.7s;
+    }
+    div.iPhone_container_hidden>div.iPhone>a:hover {
+        background: url("img/iphone_12_pro_max_pacific_blue_block-4.png") 50% 90%/25% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac>a:hover {
+        background: url("img/Mac.png") 50% 85%/66% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.iPad>a:hover {
+        background: url("img/iPad.png") 10% 90%/60% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.smart_home>a:hover {
+        background: url("img/Apple_HomeKit.png") 50% 100%/55% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.Mac_mini>a:hover {
+        background: url("img/Mac-Mini-M1.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.iPhone_container_hidden>div.accessories>a:hover {
+        background: url("img/air_pods_max.png") 30% 110%/100% no-repeat #f6f6f6;
+    }
+    div.lower_menu {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        background: #f6f6f6;
+        padding: 10px 0 10px 0;
+        box-sizing: border-box;
+    }
+    div.lower_menu>ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        min-height: 30px;
+        margin: 0;
+        padding: 0 0 5px 0;
+        list-style-type: none;
+    }
+    button.inactive {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+    button.active {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+    div.lower_menu>div.banners {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 92%;
+        height: 1160px;
+        margin: auto;
+    }
+    div.banners_1row {
+        width: 100%;
+        display: none;
+    }
+    div.show1>a, div.show2>a, div.show3>a {
+        text-decoration: none;
+        color: black;
+    }
+    div.show1>a:nth-of-type(1):hover, div.show1>a:nth-of-type(2):hover,
+    div.show1>a:nth-of-type(3):hover, div.show1>a:nth-of-type(4):hover,
+    div.show2>a:nth-of-type(1):hover, div.show2>a:nth-of-type(2):hover,
+    div.show2>a:nth-of-type(3):hover, div.show2>a:nth-of-type(4):hover,
+    div.show3>a:nth-of-type(1):hover, div.show3>a:nth-of-type(2):hover,
+    div.show3>a:nth-of-type(3):hover, div.show3>a:nth-of-type(4):hover {
+        -webkit-transform: scale(1.08);
+        transform: scale(1.08);
+        border: solid deepskyblue 1px;
+    }
+    div.show1>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_1.png") top/87% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_1row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1>a>p:nth-of-type(1), div.show2>a>p:nth-of-type(1), div.show3>a>p:nth-of-type(1) {
+        font-weight: bold;
+        font-size: 14px;
+    }
+    div.show1>a>p:nth-of-type(2), div.show2>a>p:nth-of-type(2), div.show3>a>p:nth-of-type(2) {
+        font-weight: lighter;
+        font-size: 12px;
+    }
+    div.banners_2row {
+        width: 100%;
+        display: none;
+    }
+    div.show2>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_2.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_3.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show2>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_2row_4.png") top/90% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.banners_3row {
+        width: 100%;
+        display: none;
+    }
+    div.show3>a:nth-of-type(1) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_1.png") top/84% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(2) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_2.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(3) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_3.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show3>a:nth-of-type(4) {
+        width: 280px;
+        height: 280px;
+        margin: 5px auto;
+        padding: 0 5px 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background: url("img/lower_menu_3row_4.png") top/88% no-repeat;
+        border: solid gainsboro 1px;
+        box-sizing: border-box;
+    }
+    div.show1, div.show2, div.show3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    div.oficial>p:nth-of-type(1) {
+        font-size: 22px;
+    }
+    footer {
+        margin: 40px 0 0 0;
+    }
+    footer>div {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 10px;
+    }
+    footer>div>a.store_name {
+        display: block;
+        margin: auto;
+        border: none;
+    }
+    footer>div>div {
+        display: flex;
+        justify-content: center;
+        color: white;
+        height: 50px;
+        margin: 0 0 0 10px;
+        padding: 5px 0 0 5px;
+    }
+    footer>div>div>a {
+        width: 30px;
+        height: 30px;
+        display: block;
+        margin: 10px 5px 0 10px;
+    }
+    footer>div>div>a:nth-of-type(1) {
+        background: url("img/instagram.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(2) {
+        background: url("img/fb.svg") center/100% no-repeat;
+    }
+    footer>div>div>a:nth-of-type(3) {
+        background: url("img/vk.svg") center/100% no-repeat;
+    }
+    footer>div>div>a>img {
+        width: 30px;
+        height: 30px;
+        opacity: 0;
+    }
+    footer>div>div>a:nth-of-type(1):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(2):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>div>div>a:nth-of-type(3):hover img {
+        opacity: 1;
+        transition: 0.9s;
+    }
+    footer>hr {
+        margin: 0 10px 0 10px;
+        border: solid 1px rgba(115, 148, 232, 0.6);
+    }
+    div.footer_payment {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(220, 220, 220, 0.9);
+        margin: 10px 30px 0 30px;
+        padding: 5px 0 0 5px;
+    }
+    div.footer_payment>p {
+        width: 95%;
+        font-size: 12px;
+        margin: 10px auto;
+        line-height: 130%;
+    }
+    div.footer_payment>p>a {
+        text-decoration: none;
+        color: rgba(220, 220, 220, 0.9);
+    }
+    div.footer_payment>p>a:hover {
+        text-decoration: underline;
+    }
+}
