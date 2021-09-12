@@ -98,6 +98,9 @@
     td {
         min-width: 130px;
     }
+        td>a {
+        padding: 40px 0 0 0;
+    }
     div.legal_entities {
         padding: 10px 20px 10px 20px;
         display: flex;
