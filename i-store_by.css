@@ -1480,7 +1480,7 @@ button.buy {
   border: solid 1px gainsboro;
   position: relative;
   bottom: 60px;
-  left: 226px;
+  left: 77%;
 }
 button.buy:hover {
   background: url("img/shopping.svg") center/60% no-repeat rgba(140, 70, 205, 0.8);
