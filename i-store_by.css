@@ -1427,8 +1427,8 @@ div.side_filter {
   justify-content: flex-start;
   position: -webkit-sticky;
   position: sticky;
-  bottom: 0;
-  top: 50px;
+  top: 0;
+  bottom: -20px;
 }
 div.side_filter>p {
   font-size: x-large;
