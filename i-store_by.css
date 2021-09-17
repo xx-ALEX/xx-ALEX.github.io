@@ -426,7 +426,7 @@ p.title_info {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  z-index: 3;
+  z-index: 1;
 }
 div.payment_and_delivery, div.info_about_shop {
   margin: 0;
